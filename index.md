@@ -1,3 +1,4 @@
-# Welcome to my blog
+## Welcome to My Learning
 
-I'm glad you are here. I plan to talk about ...
+We are testing this out, and so far things are going well I think
+
